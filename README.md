@@ -1,6 +1,6 @@
 # **Face Analysis - Human Attributes Detection**
 
-![gtihub image](https://github.com/huynhloc04/Face_Analysis/tree/main/images/background.jpg)
+![gtihub image](https://github.com/huynhloc04/Face_Analysis/blob/main/images/background.jpg)
 <!-- ![Alt text](images/faces.gif) -->
 
 ## **1. What is Face Analysis**
@@ -12,7 +12,7 @@ We have built an end to end project that can detect and recognize faces in image
 
 The following flowchart shows how it works
 
-![gtihub image](https://github.com/huynhloc04/Face_Analysis/tree/main/images/pipeline.jpg)
+![gtihub image](https://github.com/huynhloc04/Face_Analysis/blob/main/images/pipeline.jpg)
 
 The flowchart above shows the general structure of our architecture. We compare and test from different backbones, architectures and choose the best one.
 
@@ -23,4 +23,4 @@ In this project, we use mainly [CelebA](https://www.kaggle.com/datasets/jessical
 
 ### **Dataset structure**
 
-![gtihub image](https://github.com/huynhloc04/Face_Analysis/tree/main/images/structure.jpg)
+![gtihub image](https://github.com/huynhloc04/Face_Analysis/blob/main/images/structure.jpg)
