@@ -7,7 +7,7 @@
 Face Analysis is a field of detecting human faces from a visual input, extracting feature values, and recognizing who the subjects are. It is widely utilized in areas such as ID verification, access control, and AR face filters/stickers.
 
 
-## **2. Our solutions**
+## **2. Our solution**
 We have built an end to end project that can detect and recognize faces in images or stream videos. Concurrently, it can detect 40 attributes on the faces.
 
 The following flowchart shows how it works
