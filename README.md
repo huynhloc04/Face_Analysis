@@ -12,7 +12,7 @@ We have built an end to end project that can detect and recognize faces in image
 
 The following flowchart shows how it works
 
-![gtihub image](https://github.com/huynhloc04/Face_Analysis/blob/main/images/flowchart.jpg)
+![gtihub image](https://github.com/huynhloc04/Face_Analysis/blob/main/images/flowchartt.jpg)
 
 The flowchart above shows the general structure of our architecture. We compare and test from different backbones, architectures and choose the best one.
 
